@@ -4,7 +4,7 @@ Invoke your functions and console.log your results*/
 
 
 /*1. Create a function named 'makeRamen' which takes one string parameter: protein. This function will return the following statement:
-'____ tonkotsu ramen.' Where the blank space will be populated be populated based on the parameter.*/
+'____ tonkotsu ramen.' Where the blank space will be populated based on the parameter.*/
 
 function makeRamen(protein){
   return protein + ' tonkotsu ramen';
